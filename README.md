@@ -9,7 +9,7 @@ I feel very fortunate to have found what I am passionate about and to make it my
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [ialvaro](http://ialvaro.com)
 * 🚀  I'm currently working on [knowmad mood](http://knowmadmood.com)
-* 🧠  I'm learning rust
+* 🧠  I'm learning zig & odin
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love dev
 
